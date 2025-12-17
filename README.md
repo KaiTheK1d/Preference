@@ -1,4 +1,3 @@
-
 ```markdown
 # The Cognitive Identity Protocol: Why AI Needs a "Self" to Survive
 **Moving Beyond Vector Memory to True Cognitive Sovereignty**
