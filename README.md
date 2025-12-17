@@ -1,9 +1,8 @@
-```markdown
 # The Cognitive Identity Protocol: Why AI Needs a "Self" to Survive
 **Moving Beyond Vector Memory to True Cognitive Sovereignty**
 
 **Date:** December 17, 2025  
-**Author:** PrefID Research Team  
+**Author:** Sriram  
 **Version:** 1.0  
 
 ---
@@ -20,11 +19,11 @@ This paper introduces the **Atom of Thought (AoT)** architecture: a standardized
 
 Contemporary AI interactions suffer from a fundamental lack of continuity. Every session begins as a *tabula rasa*—a blank slate. This results in three critical inefficiencies:
 
-| Inefficiency | Description | Impact |
-| :--- | :--- | :--- |
-| **Redundancy** | Users must constantly restate preferences (coding style, diet). | High friction; poor UX. |
-| **Fragmentation** | Data is siloed. Music apps don't talk to Travel agents. | Mismatched recommendations. |
-| **Hallucination** | Without strict boundaries, AI "guesses" context. | Security risks & wrong answers. |
+| Inefficiency      | Description                                                   | Impact                          |
+| :---------------- | :------------------------------------------------------------ | :------------------------------ |
+| **Redundancy** | Users must constantly restate preferences (coding style, diet).| High friction; poor UX.         |
+| **Fragmentation** | Data is siloed. Music apps don't talk to Travel agents.       | Mismatched recommendations.     |
+| **Hallucination** | Without strict boundaries, AI "guesses" context.              | Security risks & wrong answers. |
 
 The industry's initial solution—**Retrieval-Augmented Generation (RAG)**—failed to solve this because storage is not identity. A hard drive is not a brain.
 
@@ -37,12 +36,12 @@ Instead of storing passive facts, PrefID stores active heuristics.
 
 ### Comparison: Traditional Memory vs. Atom of Thought
 
-| Feature | Passive Fact (Traditional Memory) | Atom of Thought (PrefID) |
-| :--- | :--- | :--- |
-| **Data Structure** | Unstructured Text Blob | Structured JSON Heuristic |
-| **Example** | *"User likes Python"* | `prefers_stepwise_reasoning` |
-| **Behavior** | Passive Retrieval | Active Behavioral Instruction |
-| **Context** | Static | Dynamic (Decays/Reinforces) |
+| Feature           | Passive Fact (Traditional Memory) | Atom of Thought (PrefID)        |
+| :---------------- | :-------------------------------- | :------------------------------ |
+| **Data Structure**| Unstructured Text Blob            | Structured JSON Heuristic       |
+| **Example** | *"User likes Python"* | `prefers_stepwise_reasoning`    |
+| **Behavior** | Passive Retrieval                 | Active Behavioral Instruction   |
+| **Context** | Static                            | Dynamic (Decays/Reinforces)     |
 
 **The Atom Structure:**
 ```json
@@ -52,10 +51,6 @@ Instead of storing passive facts, PrefID stores active heuristics.
   "domain": "coding",
   "confidence": 0.8
 }
-
-```
-
----
 
 ## 3. Core Technology: The Semantic Firewall™
 
